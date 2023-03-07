@@ -4,7 +4,7 @@ This package implements a realtime server for testing WebSockets and Server Sent
 
 ## How to Use This Server
 
-1. If you do not already have Go (version 1.17 or higher) installed on your machine, you can download an installation for your machine from [https://golang.org](the Go website)
+1. If you do not already have Go (version 1.17 or higher) installed on your machine, you can download an installation for your machine from the [Go Lang Website](https://golang.org)
 
 2. Open up a terminal window and navigate to this directory.  Start up the WebSocket server by typing `go run server.go`
 
